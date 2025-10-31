@@ -1,18 +1,18 @@
 import React, { useState } from 'react';
-import { AuthProvider, useAuth } from './contexts/AuthContext';
-import { AppProvider } from './contexts/AppContext';
-import { LoginPage } from './components/LoginPage';
-import { SignUpPage } from './components/SignUpPage';
-import { MobileLayout } from './components/MobileLayout';
-import { HomePage } from './components/HomePage';
-import { IngredientRecognitionPage } from './components/IngredientRecognitionPage';
-import { RecipeSuggestionsPage } from './components/RecipeSuggestionsPage';
-import { CalorieTrackingPage } from './components/CalorieTrackingPage';
-import { SettingsPage } from './components/SettingsPage';
-import { GroceryListPage } from './components/GroceryListPage';
-import { PantryPage } from './components/PantryPage';
-import { MealPlannerPage } from './components/MealPlannerPage';
-import { Toaster } from './components/ui/sonner';
+import { AuthProvider, useAuth } from '../contexts/AuthContext';
+import { AppProvider } from '../contexts/AppContext';
+import { LoginPage } from '../components/LoginPage';
+import { SignUpPage } from '../components/SignUpPage';
+import { MobileLayout } from '../components/MobileLayout';
+import { HomePage } from '../components/HomePage';
+import { IngredientRecognitionPage } from '../components/IngredientRecognitionPage';
+import { RecipeSuggestionsPage } from '../components/RecipeSuggestionsPage';
+import { CalorieTrackingPage } from '../components/CalorieTrackingPage';
+import { SettingsPage } from '../components/SettingsPage';
+import { GroceryListPage } from '../components/GroceryListPage';
+import { PantryPage } from '../components/PantryPage';
+import { MealPlannerPage } from '../components/MealPlannerPage';
+import { Toaster } from '../components/ui/sonner';
 
 function AppContent() {
   const { isAuthenticated } = useAuth();
