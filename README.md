@@ -2,6 +2,14 @@
 
 A comprehensive mobile nutrition and meal planning application built with React, TypeScript, and Vite.
 
+<img width="300" height="536" alt="image" src="https://github.com/user-attachments/assets/f80de64c-bc5f-4c34-862a-9b001065374e" />
+<img width="300" height="536" alt="image" src="https://github.com/user-attachments/assets/1d3b6823-9cd6-4933-9cf7-bb18be32d098" />
+<img width="300" height="533" alt="image" src="https://github.com/user-attachments/assets/5803e538-7f31-4f26-ae56-ac154c550b4b" />
+<img width="300" height="537" alt="image" src="https://github.com/user-attachments/assets/3daf0f48-978a-43d1-a709-67919c0d6e7b" />
+<img width="300" height="537" alt="image" src="https://github.com/user-attachments/assets/91c8c2fd-a32c-41b9-b0fb-cf067cdb1331" />
+<img width="300" height="538" alt="image" src="https://github.com/user-attachments/assets/0046b55c-b233-432b-b640-2e72a19e5f20" />
+<img width="300" height="537" alt="image" src="https://github.com/user-attachments/assets/55e788a6-5a88-4577-a506-a138cf04121d" />
+
 ## Features
 
 - **Authentication**: User login and signup functionality
@@ -78,14 +86,4 @@ src/
 - **IngredientRecognitionPage**: Camera-based ingredient scanning
 - **RecipeSuggestionsPage**: Recipe discovery and recommendations
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests and ensure everything works
-5. Submit a pull request
-
-## License
-
-This project is private and proprietary.
